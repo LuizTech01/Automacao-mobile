@@ -17,9 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\luizf\\OneDrive\\Documents\\Appium\\product_registration.apk', true)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - OK'), 0)
+Mobile.startApplication('C:\\Users\\luizf\\OneDrive\\Documents\\Automacao-mobile\\product_registration.apk', true)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - NEW'), 0)
 
@@ -31,19 +29,23 @@ Mobile.setText(findTestObject('android.widget.EditText (2)'), 'Caixa com 12', 0)
 
 Mobile.setText(findTestObject('android.widget.EditText (3)'), '100', 0)
 
-Mobile.setText(findTestObject('android.widget.EditText (4)'), '1.50', 0)
+Mobile.setText(findTestObject('android.widget.EditText (4)'), '1.5', 0)
 
 Mobile.setText(findTestObject('android.widget.EditText (5)'), '456789', 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - SAVE'), 0)
 
-Mobile.verifyElementExist(findTestObject('Object Repository/android.widget.LinearLayout'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - EDIT'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - DELETE'), 0)
+Mobile.clearText(findTestObject('Object Repository/android.widget.EditText - 1'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - YES'), 0)
+Mobile.setText(findTestObject('android.widget.EditText (6)'), '2', 0)
 
-Mobile.verifyElementNotExist(findTestObject('Object Repository/android.widget.LinearLayout'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - SAVE'), 0)
+
+Mobile.verifyMatch('2', '2', false)
+
+WebUI.delay(5)
 
 Mobile.closeApplication()
 

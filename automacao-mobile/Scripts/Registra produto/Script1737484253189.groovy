@@ -17,11 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\luizf\\OneDrive\\Documents\\Appium\\product_registration.apk', true)
+Mobile.startApplication('C:\\Users\\luizf\\OneDrive\\Documents\\Automacao-mobile\\product_registration.apk', true)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - NEW'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText'), '1', 0)
+Mobile.setText(findTestObject('android.widget.EditText (6)'), '1', 0)
 
 Mobile.setText(findTestObject('Object Repository/android.widget.EditText (1)'), 'Caneta azul', 0)
 
