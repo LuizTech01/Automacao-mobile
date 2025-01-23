@@ -19,33 +19,21 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('C:\\Users\\luizf\\OneDrive\\Documents\\Automacao-mobile\\product_registration.apk', true)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - NEW'), 0)
+Mobile.tap(findTestObject('Object Repository/Product group obj/android.widget.Button - OK'), 0)
 
-Mobile.setText(findTestObject('android.widget.EditText (6)'), '1', 0)
+Mobile.tap(findTestObject('Object Repository/Product group obj/android.widget.Button - MENU'), 0)
 
-Mobile.setText(findTestObject('android.widget.EditText (1)'), 'Caneta azul', 0)
+Mobile.tap(findTestObject('Object Repository/Product group obj/android.widget.Button - PRODUCT GROUP'), 0)
 
-Mobile.setText(findTestObject('android.widget.EditText (2)'), 'Caixa com 12', 0)
+Mobile.tap(findTestObject('Object Repository/Product group obj/android.widget.Button - ADD'), 0)
 
-Mobile.setText(findTestObject('android.widget.EditText (3)'), '100', 0)
+Mobile.setText(findTestObject('Object Repository/Product group obj/android.widget.EditText'), 'Grupo 1', 0)
 
-Mobile.setText(findTestObject('android.widget.EditText (4)'), '1.5', 0)
+Mobile.tap(findTestObject('Object Repository/Product group obj/android.widget.Button - SAVE'), 0)
 
-Mobile.setText(findTestObject('android.widget.EditText (5)'), '456789', 0)
+Mobile.swipe(0, 0, 0, 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - SAVE'), 0)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - EDIT'), 0)
-
-Mobile.clearText(findTestObject('null'), 0)
-
-Mobile.setText(findTestObject('android.widget.EditText (6)'), '2', 0)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - SAVE'), 0)
-
-Mobile.verifyMatch('2', '2', false)
-
-WebUI.delay(5)
+WebUI.delay(0)
 
 Mobile.closeApplication()
 

@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.EditText</value>
-      <webElementGuid>2c1187dd-e36a-4a67-8ce5-27dd61298f75</webElementGuid>
+      <webElementGuid>b326fac3-0605-4d98-9ae3-d3fcb6b62585</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>index</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>ba68fb5d-5a78-43e3-b731-d93ef8b69c46</webElementGuid>
+      <webElementGuid>479dc3d6-4b73-497f-ac34-6a6bee34c46f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>br.com.pztec.estoque:id/txt_motivo</value>
-      <webElementGuid>1eb39049-6c02-41cd-9941-758532a9540d</webElementGuid>
+      <webElementGuid>6ec75c0f-0323-48ad-b188-12a9a51e6281</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>package</name>
       <type>Main</type>
       <value>br.com.pztec.estoque</value>
-      <webElementGuid>49e435d8-84b2-4a4b-8763-fa012f3f9c63</webElementGuid>
+      <webElementGuid>7e2794ef-61c4-4f8a-8025-7e108419b238</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fd1435ac-de73-46d8-9000-04ba58683c24</webElementGuid>
+      <webElementGuid>19ffe0a6-8c4a-4a34-904e-0074f49951cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2a3ad4a6-6ac4-41bc-9445-792ed350c8f0</webElementGuid>
+      <webElementGuid>5d9a8ccb-110d-45fb-9ab3-f2941d53627c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b81e6128-e0df-4d05-9f49-76e04ef9145a</webElementGuid>
+      <webElementGuid>b7cc3f32-75bc-4b1f-9bb6-16d85de5a709</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>706f57e0-a5f5-4e67-84de-3703b3145420</webElementGuid>
+      <webElementGuid>fd6102e4-8c7e-4103-a300-aa6d014e62e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>d76da31b-351c-417a-95e6-6776c71721e9</webElementGuid>
+      <webElementGuid>9e313582-ba31-46d1-bd6c-b1a3754ef8b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>caf7160b-3cfc-40b3-9c56-9037296e287d</webElementGuid>
+      <webElementGuid>7b43d4f2-15ad-4d9b-92d3-bb3e47bdf977</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>091e5ab9-f124-4093-9326-a9901a4789e6</webElementGuid>
+      <webElementGuid>423d5355-82fe-4d10-8170-a39743e229fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0b755be2-e505-41c9-a1de-0fd168bcf57f</webElementGuid>
+      <webElementGuid>1bf5a150-f73c-4ce3-9e0a-7e4bd84561ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bab39328-46f5-4692-a993-95b45e99ede8</webElementGuid>
+      <webElementGuid>45141793-ad09-435c-8a5e-9643a9cb7e7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a38f76f6-91c6-463b-a6ff-11dfddedb863</webElementGuid>
+      <webElementGuid>37e4e2c2-86c7-457f-b1b9-903a1d1fca4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>x</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>f69c1d44-0ef7-4fb6-9bf0-42878994a75a</webElementGuid>
+      <webElementGuid>ac2d7d2f-250b-4c80-b8a8-0e1d87a559ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>y</name>
       <type>Main</type>
       <value>606</value>
-      <webElementGuid>d783981a-ab31-45df-a4d3-be9cc8c4dd8d</webElementGuid>
+      <webElementGuid>aeea5023-cede-4bdb-997f-0a7af18d3fcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>width</name>
       <type>Main</type>
       <value>1080</value>
-      <webElementGuid>1a6b7d2f-d660-4348-ada3-7845971ce6f5</webElementGuid>
+      <webElementGuid>e5ffe566-a576-4c58-8819-ce1d1a2990f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>height</name>
       <type>Main</type>
       <value>124</value>
-      <webElementGuid>39a8608e-9c28-4fd9-ac43-cac2961469bc</webElementGuid>
+      <webElementGuid>7a6dfd3e-b93e-4638-bca2-b13dcf746be2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[0,606][1080,730]</value>
-      <webElementGuid>226873c1-3a3e-4ccb-b5f6-943d4d9dca0b</webElementGuid>
+      <webElementGuid>b2be9f2d-4296-4b3a-8dd2-9e02c5d029c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2b63d758-b9cb-419e-bf66-7b7331208db5</webElementGuid>
+      <webElementGuid>347b4b18-4214-453b-b7f1-30e27ce70c26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -173,7 +173,7 @@
       <name>text</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>71f81128-bb33-42b8-b480-5d96d9d8a64b</webElementGuid>
+      <webElementGuid>a2d9bdc2-fa1b-47cc-be5b-e708c5e5b48c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -181,7 +181,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.EditText[2]</value>
-      <webElementGuid>dc5e86a9-0a44-4b12-a815-d8afbd41c531</webElementGuid>
+      <webElementGuid>66079d31-0c04-4f95-b3bc-8ead9169bbf2</webElementGuid>
    </webElementProperties>
    <locator>//*[@class = 'android.widget.EditText' and @resource-id = 'br.com.pztec.estoque:id/txt_motivo' and (@text = '' or . = '')]</locator>
    <locatorCollection>
@@ -194,8 +194,32 @@
          <value>//*[@class = 'android.widget.EditText' and @resource-id = 'br.com.pztec.estoque:id/txt_motivo' and (@text = '' or . = '')]</value>
       </entry>
       <entry>
+         <key>ID</key>
+         <value>br.com.pztec.estoque:id/txt_motivo</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>ANDROID_VIEWTAG</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().className(&quot;android.widget.EditText&quot;).resourceId(&quot;br.com.pztec.estoque:id/txt_motivo&quot;).packageName(&quot;br.com.pztec.estoque&quot;).enabled(true).clickable(true).longClickable(true).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(5)</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CLASS_NAME</key>
+         <value>android.widget.EditText</value>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
@@ -206,32 +230,8 @@
          <value></value>
       </entry>
       <entry>
-         <key>CLASS_NAME</key>
-         <value>android.widget.EditText</value>
-      </entry>
-      <entry>
          <key>NAME</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>ID</key>
-         <value>br.com.pztec.estoque:id/txt_motivo</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ACCESSIBILITY</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.EditText&quot;).resourceId(&quot;br.com.pztec.estoque:id/txt_motivo&quot;).packageName(&quot;br.com.pztec.estoque&quot;).enabled(true).clickable(true).longClickable(true).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(5)</value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

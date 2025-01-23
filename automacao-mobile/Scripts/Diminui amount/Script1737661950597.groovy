@@ -19,33 +19,35 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('C:\\Users\\luizf\\OneDrive\\Documents\\Automacao-mobile\\product_registration.apk', true)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - NEW'), 0)
+Mobile.tap(findTestObject('android.widget.Button - OK'), 0)
 
-Mobile.setText(findTestObject('android.widget.EditText (6)'), '1', 0)
+Mobile.tap(findTestObject('android.widget.Button - NEW'), 0)
 
-Mobile.setText(findTestObject('android.widget.EditText (1)'), 'Caneta azul', 0)
+Mobile.setText(findTestObject('Diminui amount obj/android.widget.EditText'), '1', 0)
 
-Mobile.setText(findTestObject('android.widget.EditText (2)'), 'Caixa com 12', 0)
+Mobile.setText(findTestObject('Diminui amount obj/android.widget.EditText (1)'), 'Caneta azul', 0)
 
-Mobile.setText(findTestObject('android.widget.EditText (3)'), '100', 0)
+Mobile.setText(findTestObject('Diminui amount obj/android.widget.EditText (2)'), 'Caixa com 12', 0)
 
-Mobile.setText(findTestObject('android.widget.EditText (4)'), '1.5', 0)
+Mobile.setText(findTestObject('Diminui amount obj/android.widget.EditText (3)'), '100', 0)
 
-Mobile.setText(findTestObject('android.widget.EditText (5)'), '456789', 0)
+Mobile.setText(findTestObject('Diminui amount obj/android.widget.EditText (4)'), '1.5', 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - SAVE'), 0)
+Mobile.setText(findTestObject('Diminui amount obj/android.widget.EditText (5)'), '456789', 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - EDIT'), 0)
+Mobile.tap(findTestObject('android.widget.Button - SAVE'), 0)
 
-Mobile.clearText(findTestObject('null'), 0)
+Mobile.tap(findTestObject('android.widget.Button - AMOUNT'), 0)
 
-Mobile.setText(findTestObject('android.widget.EditText (6)'), '2', 0)
+Mobile.setText(findTestObject('Diminui amount obj/android.widget.EditText (6)'), '50', 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - SAVE'), 0)
+Mobile.setText(findTestObject('Diminui amount obj/android.widget.EditText (7)'), 'Feita a recontagem do stok', 0)
 
-Mobile.verifyMatch('2', '2', false)
+Mobile.setText(findTestObject('Diminui amount obj/android.widget.EditText (8)'), 'NF-12345', 0)
 
-WebUI.delay(5)
+Mobile.tap(findTestObject('Diminui amount obj/android.widget.Button - SAVE (1)'), 0)
+
+WebUI.delay(6, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.closeApplication()
 
